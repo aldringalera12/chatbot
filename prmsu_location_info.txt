@@ -1,8 +1,0 @@
-PRMSU FULL NAME AND LOCATION - PRMSU stands for President Ramon Magsaysay State University. The main campus is located in Iba, Zambales, Philippines.
-end
-
-PRMSU MAIN CAMPUS LOCATION - The main campus of President Ramon Magsaysay State University (PRMSU) is located in Iba, Zambales. The university has seven campuses throughout Zambales province.
-end
-
-PRMSU COMPLETE INFORMATION - President Ramon Magsaysay State University (PRMSU) is the lone state university in Zambales with its main campus located in Iba, Zambales. The university operates seven campuses throughout the province and was officially established through Republic Act No. 11015 on April 20, 2018.
-end

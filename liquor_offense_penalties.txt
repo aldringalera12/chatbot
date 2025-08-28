@@ -1,8 +1,0 @@
-LIQUOR OFFENSE SECOND PENALTY - Second offense for liquor-related violations at PRMSU results in 30 days suspension, 24 hours of transformative experience, and continued guidance intervention.
-end
-
-LIQUOR OFFENSE THIRD PENALTY - Third offense for liquor-related violations at PRMSU results in one-year suspension from the university.
-end
-
-LIQUOR OFFENSE PROGRESSIVE PENALTIES COMPLETE - PRMSU liquor-related offenses carry progressive penalties: First offense: 15 days suspension, 12 hours transformative experience, mandatory guidance intervention. Second offense: 30 days suspension, 24 hours transformative experience, continued guidance intervention. Third offense: One-year suspension.
-end
