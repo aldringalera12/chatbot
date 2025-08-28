@@ -1,0 +1,21 @@
+# Minimal Dockerfile for Railway - Under 4GB limit
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Environment variables
+ENV PYTHONUNBUFFERED=1
+ENV PIP_NO_CACHE_DIR=1
+
+# Copy requirements and install
+COPY minimal_requirements.txt requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy only the minimal chatbot
+COPY minimal_fastapi_chatbot.py app.py
+
+# Expose port
+EXPOSE 8000
+
+# Start command
+CMD ["python", "-m", "uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
